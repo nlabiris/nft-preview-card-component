@@ -10,6 +10,10 @@ body {
     overflow: hidden;
 }
 
+h1 {
+    margin: 0px;
+}
+
 hr {
     color: hsl(215, 32%, 27%);
     width: 100%;
@@ -35,7 +39,7 @@ a:hover {
 
 .images-container {
     display: block;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
 
 .image-equilibrium {
