@@ -40,7 +40,7 @@ Handling overlays with 1 or more images.
 
 ### Continued development
 
-Learn more about positions and element nesting/relations
+Learn more about positions and element nesting/relations.
 
 ### Useful resources
 
